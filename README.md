@@ -23,9 +23,13 @@ In this project, I classified the disaster messages into categories & I analyzed
 ### File Description:
 
 - app
+
 | - template
+
 | |- master.html  # main page of web app
+
 | |- go.html  # classification result page of web app
+
 |- run.py  # Flask file that runs app
 
 - data
