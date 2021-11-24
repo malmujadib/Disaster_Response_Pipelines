@@ -1,5 +1,4 @@
 # Disaster_Response_Pipelines
-Data Engineering Project of Udacity Data Scientist Nanodegree 
 
 
 ### Summry:
